@@ -10,9 +10,9 @@ const iklan = () => {
 ╠➥ *MERCADO PAGO, BOLETO,*
 ╠═══════════════════════════
 ╠➥ *VANTAGENS*
-╠➥ *wa.me/554792091566*
+╠➥ *wa.me/553183411248*
 ║
-╚═〘  CAUSS  〙
+╚═〘  CUSCUZ  〙
 `
 }
 exports.iklan = iklan
