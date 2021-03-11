@@ -16,7 +16,7 @@ ____██_____██
 ║〘 INFORMAÇÕES 〙
 ║
 ╠🤖*CUSCUZ BOT* 
-╠🤖 𝐃𝐎𝐍𝐎:  ⃬⃗CUSCUZ (base dark) 
+╠🤖 𝐃𝐎𝐍𝐎:  ⃬⃗CUSCUZ 
 ╠🤖 *wa.me/+553183411248*
 ╠🤖 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
