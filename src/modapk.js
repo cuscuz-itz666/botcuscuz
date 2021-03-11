@@ -149,7 +149,7 @@ https://realsht.mobi/iJQbj
 • 100 Font Picsay/Pixelab
 https://realsht.mobi/hrTdE
 
-CAUSS NO CONTROLE 🐊🚩
+CUSCUZ NO CONTROLE 🐊🚩
 `
 }
 exports.modapk = modapk
