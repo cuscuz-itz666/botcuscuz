@@ -72,28 +72,12 @@ ____██_____██
 ║
 ╠══🐰〘 IMAGENS 〙🐰══
 ║
-║🤖 *${prefix}loli* [off]
-║🤖 *${prefix}loli1*
-║🤖 *${prefix}hentai*
 ║🤖 *${prefix}dono*
-║🤖 *${prefix}porno*
 ║🤖 *${prefix}boanoite*
 ║🤖 *${prefix}bomdia*
 ║🤖 *${prefix}boatarde*
-║🤖 *${prefix}mia [aleatórias]*
-║🤖 *${prefix}rize [aleatórias]*
-║🤖 *${prefix}minato [aleatórias]*
-║🤖 *${prefix}boruto [aleatórias]*
-║🤖 *${prefix}hinata [aleatórias]*
-║🤖 *${prefix}sasuke [aleatórias]*
-║🤖 *${prefix}sakura [aleatórias]*
-║🤖 *${prefix}naruto [aleatórias]*
 ║🤖 *${prefix}meme*   
 ║🤖 *${prefix}lofi*
-║🤖 *${prefix}malkova*
-║🤖 *${prefix}canal*
-║🤖 *${prefix}nsfwloli1*
-║🤖 *${prefix}reislin*
 ║
 ╠══🐰〘 INTELIGÊNCIA 〙🐰══
 ║
@@ -176,7 +160,6 @@ ____██_____██
 ║🤖 *${prefix}rize*
 ║🤖 *${prefix}ytsearch*
 ║🤖 *${prefix}moddroid [jogo/app]*
-║🤖 *${prefix}xvideos [titulo]**
 ║🤖 *${prefix}nomegp*
 ║🤖 *${prefix}darkjokes (memes aleatórios)*
 ║🤖 *${prefix}animecry*
@@ -184,7 +167,6 @@ ____██_____██
 ║🤖 *${prefix}next*
 ║🤖 *${prefix}alerta*
 ║🤖 *${prefix}belle [img aleatórias]*
-║🤖 *${prefix}pronomeneu [texto]*
 ║🤖 *${prefix}hobby*
 ║🤖 *${prefix}kiss
 ║🤖 *${prefix}analise
@@ -200,7 +182,6 @@ ____██_____██
 ║🤖 *${prefix}onich*
 ║🤖 *${prefix}beat1*
 ║🤖 *${prefix}glub*
-║🤖 *${prefix}causs*
 ║
 ╠══🐰〘 OUTROS /2 〙🐰══
 ║
@@ -221,8 +202,6 @@ ____██_____██
 ║🤖 *bv*
 ║🤖 *canta ai bot*
 ║🤖 *grita*
-║🤖 *gemidao*
-║🤖 *musica*
 ║
 ╠══🐰〘 CUSCUZ NO CONTROLE 〙🐰══
 ║
